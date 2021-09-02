@@ -1,8 +1,3 @@
-Hi, I’m Gustavo Gialluca
-- I’m interested in Machine Learning, Data Science and IoT projects
-- I'm a MSc student in UNICAMP, Sao Paulo Brazil, and I study AI and IoT
-- Here, I'll share some of my codes and personal projects
+Hello, my name is Gustavo and this is my repository. Here is where I'll upload all my projects that I'm working and also that I've finished developing.
 
-To reach me, feel free to add me on my socials
-- LinkedIn: https://www.linkedin.com/in/gustavo-tonon-gialluca-6a422b129
-- IG: @gustavogialluca
+Here, you can expect to find some Ai, IoT and Data Science projects, and always feel free to contribute and comment.
